@@ -21,6 +21,7 @@ Idx  Type  Server Address    Port    State     Tout  MgmtTout  RFC3576  IPSec - 
 ---  ----  ----------------  ------  --------  ----  --------  -------  -------------------------------------------------------
 3  * NM    10.255.255.24       1812    Enabled   5     5         Disabled  Disabled - /none
 4  * NM    10.255.255.25       1812    Enabled   5     5         Disabled  Disabled - /none
+5    NM    10.255.255.28       1812    Enabled   5     5         Disabled  Disabled - none/none
 
 Accounting Servers
 
@@ -28,3 +29,5 @@ Idx  Type  Server Address    Port    State     Tout  MgmtTout  RFC3576  IPSec - 
 ---  ----  ----------------  ------  --------  ----  --------  -------  -------------------------------------------------------
 3  * N     10.255.255.26       1813    Enabled   5     5         N/A       Disabled - /none
 4  * N     10.255.255.27       1813    Enabled   5     5         N/A       Disabled - /none
+5    N     10.255.255.29       1813    Enabled   5     5         N/A       Disabled - none/none
+
